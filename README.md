@@ -1,6 +1,6 @@
 # 通用翻譯標準（臺灣正體中文）
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 ## 1. 空間與排版 (Spacing)
 
